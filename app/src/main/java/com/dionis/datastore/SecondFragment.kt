@@ -31,11 +31,11 @@ class SecondFragment : Fragment() {
 
     }
 
-    private fun setUp(){
+    private fun setUp() {
         setUpClicks()
     }
 
-    private fun setUpClicks(){
+    private fun setUpClicks() {
         logOut()
 
     }
